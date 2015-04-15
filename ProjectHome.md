@@ -1,0 +1,1 @@
+Mascara de moeda para extjs4
